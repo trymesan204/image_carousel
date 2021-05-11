@@ -1,0 +1,35 @@
+.carousel-container{
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.carousel-image-wrapper{
+    width: 2400px;
+    height: 400px;
+    position: relative;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+    position: absolute;
+}
+
+.image1{
+    margin-left: 0px;
+}
+
+.image2{
+    margin-left: 600px;
+}
+
+.image3{
+    margin-left: 1200px;
+}
+
+.image4{
+    margin-left: 1800px;
+}
